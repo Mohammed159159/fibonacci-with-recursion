@@ -1,0 +1,5 @@
+﻿  main.c
+C:\Users\Mohammed Hany\Desktop\Projects\fibonacci with recursion\fibonacci with recursion\main.c(16,30): warning C4020: 'fib': too many actual parameters
+C:\Users\Mohammed Hany\Desktop\Projects\fibonacci with recursion\fibonacci with recursion\main.c(25,1): warning C4029: declared formal parameter list different from definition
+C:\Users\Mohammed Hany\Desktop\Projects\fibonacci with recursion\fibonacci with recursion\main.c(30,52): warning C4047: '!=': '__int64' differs in levels of indirection from '__int64 *'
+  fibonacci with recursion.vcxproj -> C:\Users\Mohammed Hany\Desktop\Projects\fibonacci with recursion\Debug\fibonacci with recursion.exe
